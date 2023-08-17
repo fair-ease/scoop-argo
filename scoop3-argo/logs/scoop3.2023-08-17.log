@@ -1,0 +1,5 @@
+2023-08-17 12:50:20,091 INFO  [main] fr.ifremer.scoop3.infra.logger.SC3Logger Loading properties file default.properties
+2023-08-17 12:50:20,096 INFO  [main] fr.ifremer.scoop3.infra.logger.SC3Logger Loading properties file custom.properties
+2023-08-17 12:50:20,097 INFO  [main] fr.ifremer.scoop3.infra.logger.SC3Logger Loading properties file user.properties
+2023-08-17 12:50:20,097 ERROR [main] fr.ifremer.scoop3.infra.logger.SC3Logger Unable to locate resource : /home/mjosse/scoop3/user.properties 
+2023-08-17 12:50:20,661 INFO  [main] fr.ifremer.scoop3.infra.logger.SC3Logger application.version : 1.40

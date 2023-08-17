@@ -1,0 +1,15 @@
+2023-08-17 12:51:20,094 INFO  [perf4j-async-stats-appender-sink-CoalescingStatistics] org.perf4j.TimingLogger [?:?] Performance Statistics   2023-08-17 12:50:30 - 2023-08-17 12:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+2023-08-17 12:51:50,095 INFO  [perf4j-async-stats-appender-sink-CoalescingStatistics] org.perf4j.TimingLogger [?:?] Performance Statistics   2023-08-17 12:51:00 - 2023-08-17 12:51:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+2023-08-17 12:52:20,097 INFO  [perf4j-async-stats-appender-sink-CoalescingStatistics] org.perf4j.TimingLogger [?:?] Performance Statistics   2023-08-17 12:51:30 - 2023-08-17 12:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+2023-08-17 12:52:50,098 INFO  [perf4j-async-stats-appender-sink-CoalescingStatistics] org.perf4j.TimingLogger [?:?] Performance Statistics   2023-08-17 12:52:00 - 2023-08-17 12:52:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+2023-08-17 12:53:20,100 INFO  [perf4j-async-stats-appender-sink-CoalescingStatistics] org.perf4j.TimingLogger [?:?] Performance Statistics   2023-08-17 12:52:30 - 2023-08-17 12:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
